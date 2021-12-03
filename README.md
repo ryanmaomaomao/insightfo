@@ -43,8 +43,11 @@ Please see install below prerequisite libraries:
 1. Run login.py
 2. Enter ideal job information for job searching
 3. Enter personal information for job matching
+4. See report in result.html
 
-Check out our demo video link at
+### Video Demo
+
+Check out our demo video link at [here](https://github.com/ryanmaomaomao/insightfo).
 
 ## Contact
 
